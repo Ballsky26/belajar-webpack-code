@@ -6,4 +6,5 @@ import { JokesService } from "./app/jokes.service.js";
 const alertService = new AlertService();
 const calculatorService = new CalculatorService();
 const jokesService = new JokesService();
+
 run(alertService, calculatorService, jokesService);
