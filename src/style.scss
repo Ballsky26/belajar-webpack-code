@@ -4,3 +4,9 @@ $bg: rgb(191, 235, 250);
 body {
   background-color: $bg;
 }
+
+.logo {
+  width: 150px;
+  display: block;
+  margin: 20px auto;
+}
